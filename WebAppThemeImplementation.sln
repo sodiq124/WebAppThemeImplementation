@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppThemeImplementation", "WebAppThemeImplementation.csproj", "{6137B245-4FAA-4742-8763-D52E6DC12DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6137B245-4FAA-4742-8763-D52E6DC12DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6137B245-4FAA-4742-8763-D52E6DC12DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6137B245-4FAA-4742-8763-D52E6DC12DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6137B245-4FAA-4742-8763-D52E6DC12DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0145B3D8-1DE2-43F5-865C-F61F311C4672}
+	EndGlobalSection
+EndGlobal
